@@ -6,7 +6,7 @@
 
 ###  About Me
 
-* 🔭 I’m currently working on **[TrustWera](https://belle011.github.io/trustwera/)**
+* 🔭 I’m currently working on **[TrustWera](https://bwandere.github.io/trustwera/)**
 * 💻 I’m currently learning **Go, Backend Development, and AI/ML**
 * 🚀 Interested in **Full-Stack Development, Artificial Intelligence, and Machine Learning**
 * 📫 Reach me at **[rosebellawandere@gmail.com](mailto:rosebellawandere@gmail.com)**
